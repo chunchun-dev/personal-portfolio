@@ -11,7 +11,7 @@ function Services() {
                             <div className="services__desc">
                                 <h2>React JS</h2>
                                 <p>
-                                    React JS is a popular library for building impressive UIs.
+                                    React JS is a popular frontend library for building impressive UIs.
                                 </p>
                             </div>
                         </div>
@@ -19,9 +19,7 @@ function Services() {
                             <div className="services__desc">
                                 <h2>NEXT JS</h2>
                                 <p>
-                                    Lorem Ipsum available, but the majority have suffered
-                                    alteration in some form, by injected humour, or randomised
-                                    words which don't look even slightly believable.
+                                    Next JS is a fullstack React framework.
                                 </p>
                             </div>
                         </div>
@@ -29,14 +27,13 @@ function Services() {
                             <div className="services__desc">
                                 <h2>Typescript</h2>
                                 <p>
-                                    Lorem Ipsum available, but the majority have suffered
-                                    alteration in some form.
+                                    Typescript is a subset of Javascript that is statically typed.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div className="services__right">
-                        <img src="./images/Macbook.png" alt="macbook" className="macbook" />
+                        <img src="./images/frameworks.svg" alt="macbook" className="macbook" />
                     </div>
                 </div>
             </div>

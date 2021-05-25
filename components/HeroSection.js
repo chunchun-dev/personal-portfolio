@@ -77,7 +77,7 @@ function HeroSection() {
                     </p>
                 </div>
                 <div className="column__right">
-                    <img src="/images/ai-brain.svg" alt="brain" className="hero__img" />
+                    <img src="/images/coding.svg" alt="brain" className="hero__img" />
                 </div>
             </div>
         </div>
