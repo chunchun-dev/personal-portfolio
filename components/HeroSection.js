@@ -67,7 +67,7 @@ function HeroSection() {
             <div className="hero__wrapper">
                 <div className="column__left">
                     <span>01 - QT Coder</span>
-                    <h1 class="typewrite"
+                    <h1 className="typewrite"
                         data-period="2000"
                         data-type='[ "Software Developer", "Frontend Engineer", "Web Developer" ]'>
                             Web Developer
