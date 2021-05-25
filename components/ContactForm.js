@@ -41,6 +41,9 @@ function ContactForm() {
             className={classes.root}
             styles={{ display: 'grid', placeItems: 'center' }}
             onSubmit={formSubmit}
+            name="contact"
+            method="POST"
+            data-netlify="true"
         >
             
             <TextField variant='filled' name='name' label="Name" value={name} onChange={(e) => { setName(e.target.value) }} required style={{ width: '100%' }}/>
